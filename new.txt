@@ -1,0 +1,36 @@
+created base java file....
+then in the package right click and create the web service client...which includes the wsdl of the web service....the apche server
+
+
+if there is no server...create a anew server tomcat in the server tab
+
+
+
+https://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/
+
+http://docs.oracle.com/javaee/6/tutorial/doc/bnayn.html
+
+http://srikanthtechnologies.com/blog/dotnet/wsdaljava.aspx
+
+http://highoncoding.com/Articles/130_Making_a_Java_Client_for_the__NET_WebService.aspx
+
+http://wso2.com/library/tutorials/creating-web-service-client-3-steps-using-eclipse/
+
+https://www.youtube.com/watch?v=0ZdHN0r8kKk
+
+https://www.youtube.com/watch?v=KZkW1X6y39I
+
+https://javaclaus.wordpress.com/2013/01/04/calling-a-net-c-web-service-with-a-javajsp-client/
+
+https://coderanch.com/t/225147/java/Calling-NET-webservice-java-client
+
+https://software.intel.com/en-us/articles/develop-a-java-based-client-for-a-net-web-service
+
+https://technology.amis.nl/2011/06/29/how-to-call-a-call-a-webservice-directly-from-java-without-webservice-library/
+
+http://stackoverflow.com/questions/15940234/how-to-do-a-soap-web-service-call-from-java-class
+
+http://www.eclipse.org/webtools/jst/components/ws/scenarios/installrun.html
+
+http://www.softwareagility.gr/index.php?q=node/29
+
